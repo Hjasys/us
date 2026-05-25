@@ -1,3 +1,11 @@
+@font-face {
+
+    font-family: 'main_font';
+    src: url("fonts/main_font.ttf");
+}
+
+
+
 body {
     background-color: #f8dce8;
     font-family: Verdana, sans-serif;
@@ -21,6 +29,7 @@ body {
 }
 
 .site-banner h1 {
+    font-family: "main_font";
     font-size: 60px;
     margin: 0;
     color: #f29cc0;
