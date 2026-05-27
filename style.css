@@ -14,10 +14,10 @@ body {
     color: #5e4b52;
 }
 .banner-img{
-    width: 75px;
+    width: 135px;
     border-radius: 20px;
     border: 4px solid white;
-    margin-left: 15px;
+    margin-left: 5px;
     margin-top: 60px;
 }
 .page-wrapper {
